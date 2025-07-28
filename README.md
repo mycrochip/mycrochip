@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hello, I'm Michael Wahab (@mycrochip)
 
-<!--
-**mycrochip/mycrochip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Core Banking Application Analyst | Backend Developer (SQL, Python, Java)  
+🌍 Open to part-time/remote opportunities | Learning daily | Building in public
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- **Languages**: SQL, Python, Java, JavaScript
+- **Tools & Platforms**: Git, Flexcube (v12–14), Postman, Oracle DB
+- **Other Skills**: ITIL v4 certified | Core Banking Systems | Workflow Automation | Tech Support
+
+---
+
+### 📂 Projects I'm Working On
+- 🛠️ **Banking Ops Toolkit** – Automating routine backend tasks (e.g. EOD triggers, reconciliation scripts)
+- 📊 **SQL Dashboards** – Query-based dashboards for reporting (using dummy datasets)
+- 🧮 **LeetCode Solutions** – Practicing DSA using Python and Java with real-world context
+- ⚙️ **Flexcube Support Scripts** – Monitoring, alerting, and scripting around FCUBS daily ops
+
+---
+
+### 🌐 Let’s Connect
+- [LinkedIn](https://linkedin.com/in/microchipworld)  
+- [Email](mailto:michael.o.wahab@gmail.com)
+
+---
+
+*Learning, Building, Growing — One Line of Code at a Time.*
